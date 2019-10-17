@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1505074483 source:e:\trabajos\c++\10258 - contest scoreboard\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<sstream>
+	<cstdio>
+
